@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
 
-  [:montague][:hero][:status]="dead"
+  [:montague][:hero][:status]="dead" 
   
   
   
