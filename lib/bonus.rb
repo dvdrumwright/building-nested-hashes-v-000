@@ -26,7 +26,7 @@ def bonus
   [:status] = "dead" 
   
   
-  puts epic_tragedy
+  
   
   
 
